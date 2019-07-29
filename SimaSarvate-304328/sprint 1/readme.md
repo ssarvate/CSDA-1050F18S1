@@ -89,7 +89,7 @@ All data files can be found in the data folder of this project.
   
 	Y - **object**
   
-  LONGITUDE – longitude, **float64**  
+  	LONGITUDE – longitude, **float64**  
   
 	LATITUDE  - latitude, **float64**   
   
@@ -99,17 +99,17 @@ All data files can be found in the data folder of this project.
   
 -	The columns  that are important for our analysis are:
 
-INTERSECTION_ID
+	INTERSECTION_ID
 
-LINEAR_NAME_FULL_1
+	LINEAR_NAME_FULL_1
 
-LINEAR_NAME_FULL_2
+	LINEAR_NAME_FULL_2
 
-LONGITUDE
+	LONGITUDE
 
-LATITUDE
+	LATITUDE
 
-geometry
+	geometry
 
 -	There is some missing data but only in the X and Y columns. These columns are not important for our analysis.  
 
