@@ -115,6 +115,130 @@ All data files can be found in the data folder of this project.
 
 -	The geopoints for each camera is plotted on a street map of Toronto (obtained from the open data portal of The City of Toronto). **Please see the notebook for this visualization**. This gives a visual representation of all the red light cameras around the city. However, the shape file used in this visualization does not show the level of detail that would be preferred in this situation. A little more detail and interactivity at the intersection level is required in this analysis. A search is currently underway to find a better shape file for The City of Toronto.
 
+### EDA for Red Light Accident Dataset (KSI)
+
+-	This is a CSV dataset.
+
+-	The dataset has 959 rows.
+
+-	The dataset has 57 columns as follows:
+
+	X             **float64**
+
+	Y             **float64**
+
+	Index_         **int64**
+
+	ACCNUM          **int64**
+
+	YEAR            **int64**
+
+	DATE           **object**
+
+	TIME            **int64**
+
+	Hour            **int64**
+
+	STREET1        **object**
+
+	STREET2        **object**
+
+	OFFSET         **object**
+
+	ROAD_CLASS     **object**
+
+	District       **object**
+
+	LATITUDE      **float64**
+
+	LONGITUDE     **float64**
+
+	LOCCOORD       **object**
+
+	ACCLOC         **object**
+
+	TRAFFCTL       **object**
+
+	VISIBILITY     **object**
+
+	LIGHT          **object**
+
+	RDSFCOND       **object**
+
+	ACCLASS        **object**
+
+	IMPACTYPE      **object**
+
+	INVTYPE        **object**
+
+	INVAGE         **object**
+
+	INJURY         **object**
+
+	FATAL_NO        **int64**
+
+	INITDIR        **object**
+
+	VEHTYPE        **object**
+
+	MANOEUVER      **object**
+
+	DRIVACT        **object**
+
+	DRIVCOND       **object**
+
+	PEDTYPE        **object**
+
+	PEDACT         **object**
+
+	PEDCOND        **object**
+
+	CYCLISTYPE     **object**
+
+	CYCACT         **object**
+
+	CYCCOND        **object**
+
+	PEDESTRIAN     **object**
+
+	CYCLIST        **object**
+
+	AUTOMOBILE     **object**
+
+	MOTORCYCLE     **object**
+
+	TRUCK          **object**
+
+	TRSN_CITY_     **object**
+
+	EMERG_VEH      **object**
+
+	PASSENGER      **object**
+
+	SPEEDING       **object**
+
+	AG_DRIV        **object**
+
+	REDLIGHT       **object**
+
+	ALCOHOL        **object**
+
+	DISABILITY     **object**
+
+	Division       **object**
+
+	Ward_Name     **float64**
+
+	Ward_ID       **float64**
+
+	Hood_ID         **int64**
+
+	Hood_Name     **float64**
+
+	ObjectId        **int64**
+
+
+
 
 
 
