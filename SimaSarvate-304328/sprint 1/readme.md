@@ -247,121 +247,121 @@ All data files can be found in the data folder of this project.
 
 	YEAR
 	
-	2008    34
+	2008    	34
 	
-	2009    24
+	2009   		24
 	
-	2010    23
+	2010    	23
 	
-	2011    17
+	2011    	17
 	
-	2012    29
+	2012    	29
 	
-	2013    25
+	2013    	25
 	
-	2014    26
+	2014    	26
 	
-	2015    21
+	2015    	21
 	
-	2016    20
+	2016    	20
 	
-	2017    22
+	2017    	22
 	
-	2018    22
+	2018    	22
 	
 	**KSI by Hour of Day** – This chart shows a peak  at 4pm and 6pm.
 	
 	Hour
 	
-	0     12
+	0     		12
 	
-	1      8
+	1      		8
 	
-	2      4
+	2      		4
 	
-	3     10
+	3     		10
 	
-	4      1
+	4      		1
 	
-	5     10
+	5     		10
 	
-	6      9
+	6      		9
 	
-	7     13
+	7     		13
 	
-	8      8
+	8      		8
 	
-	9     13
+	9     		13
 	
-	10    13
+	10    		13
 	
-	11    16
+	11    		16
 	
-	12    13
+	12    		13
 	
-	13     7
+	13    		 7
 	
-	14    14
+	14    		14
 	
-	15    18
+	15    		18
 	
-	16    21
+	16    		21
 	
-	17     8
+	17     		8
 	
-	18    21
+	18    		21
 	
-	19     5
+	19     		5
 	
-	20    18
+	20    		18
 	
-	21    10
+	21    		10
 	
-	22     6
+	22     		6
 	
-	23     5
+	23     		5
 	
 	**KSI by Age Group (age of the red light runner)** – Here we got some unexpected results. There were counts in outlying age groups. For example, there was 1 accident classified in each of the age groups 0-4, 10-14, and over 95. These could be due to human (data input) error.
 	
-	INVAGE
+	AGE GROUP
 	
-	0 to 4       1
+	0 to 4      	 1
 	
-	10 to 14     1
+	10 to 14     	 1
 	
-	15 to 19    12
+	15 to 19   	 12
 	
-	20 to 24    27
+	20 to 24    	 27
 	
-	25 to 29    17
+	25 to 29    	 17
 	
-	30 to 34    17
+	30 to 34   	 17
 	
-	35 to 39    16
+	35 to 39    	 16
 	
-	40 to 44    19
+	40 to 44   	 19
 	
-	45 to 49    26
+	45 to 49   	 26
 	
-	50 to 54    23
+	50 to 54    	 23
 	
-	55 to 59    10
+	55 to 59   	 10
 	
-	60 to 64    22
+	60 to 64   	 22
 	
-	65 to 69    12
+	65 to 69   	 12
 	
-	70 to 74     6
+	70 to 74    	 6
 	
-	75 to 79     7
+	75 to 79    	 7
 	
-	80 to 84     6
+	80 to 84    	 6
 	
-	85 to 89     2
+	85 to 89    	 2
 	
-	Over 95      1
+	Over 95     	 1
 	
-	unknown     38
+	unknown    	 38
 
 	This pandas dataframe was converted to a geopandas dataframe and an extra column was added, geometry, using the LONGITUDE and LATITUDE columns giving us a geopoint for each accident to map on the same shape file used to plot the cameras geopoints. **Please see the notebook for this visualization**. Again, it is mentioned that another more suitable shape file is needed which would allow for a higher degree of insights.
 
