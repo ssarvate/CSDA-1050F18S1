@@ -243,7 +243,7 @@ All data files can be found in the data folder of this project.
 
 -	Various visualizations were done with this dataset to get a sense of the accidents (please see notebook):
 
-	1.	KSI by Year – The number of red light accidents has generally decreased over the years, the following chart shows the number by year:
+	1. KSI by Year – The number of red light accidents has generally decreased over the years, the following chart shows the number by year:
 
 	YEAR
 	
@@ -269,7 +269,7 @@ All data files can be found in the data folder of this project.
 	
 	2018    22
 	
-	2.	KSI by Hour of Day – This chart shows a peak  at 4pm and 6pm.
+	2. KSI by Hour of Day – This chart shows a peak  at 4pm and 6pm.
 	
 	Hour
 	
@@ -321,7 +321,7 @@ All data files can be found in the data folder of this project.
 	
 	23     5
 	
-	3.	KSI by Age Group (age of the red light runner) – Here we got some unexpected results. There were counts in outlying age groups. For example, there was 1 accident classified in each of the age groups 0-4, 10-14, and over 95. These could be due to human (data input) error.
+	3. KSI by Age Group (age of the red light runner) – Here we got some unexpected results. There were counts in outlying age groups. For example, there was 1 accident classified in each of the age groups 0-4, 10-14, and over 95. These could be due to human (data input) error.
 	
 	INVAGE
 	
@@ -363,7 +363,7 @@ All data files can be found in the data folder of this project.
 	
 	unknown     38
 
-	4.	This pandas dataframe was converted to a geopandas dataframe and an extra column was added, geometry, using the LONGITUDE and LATITUDE columns giving us a geopoint for each accident to map on the same shape file used to plot the cameras geopoints. **Please see the notebook for this visualization**. Again, it is mentioned that another more suitable shape file is needed which would allow for a higher degree of insights.
+	4. This pandas dataframe was converted to a geopandas dataframe and an extra column was added, geometry, using the LONGITUDE and LATITUDE columns giving us a geopoint for each accident to map on the same shape file used to plot the cameras geopoints. **Please see the notebook for this visualization**. Again, it is mentioned that another more suitable shape file is needed which would allow for a higher degree of insights.
 
 
 
