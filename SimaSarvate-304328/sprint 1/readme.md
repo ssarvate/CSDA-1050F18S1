@@ -77,7 +77,7 @@ All data files can be found in the data folder of this project.
 
 	_id - unique row identifier for Open Data database, **int64**
   
-	INTERSECTION_ID – intersection id, ##int64## 
+	INTERSECTION_ID – intersection id, **int64** 
   
 	LINEAR_NAME_FULL_1 – name of first street of intersection, **object** 
   
