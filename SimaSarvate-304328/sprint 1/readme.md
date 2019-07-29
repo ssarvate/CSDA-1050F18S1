@@ -363,7 +363,7 @@ All data files can be found in the data folder of this project.
 	
 	unknown     38
 
-	4. This pandas dataframe was converted to a geopandas dataframe and an extra column was added, geometry, using the LONGITUDE and LATITUDE columns giving us a geopoint for each accident to map on the same shape file used to plot the cameras geopoints. **Please see the notebook for this visualization**. Again, it is mentioned that another more suitable shape file is needed which would allow for a higher degree of insights.
+	This pandas dataframe was converted to a geopandas dataframe and an extra column was added, geometry, using the LONGITUDE and LATITUDE columns giving us a geopoint for each accident to map on the same shape file used to plot the cameras geopoints. **Please see the notebook for this visualization**. Again, it is mentioned that another more suitable shape file is needed which would allow for a higher degree of insights.
 
 
 
