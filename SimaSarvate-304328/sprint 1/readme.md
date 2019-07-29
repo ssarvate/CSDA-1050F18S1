@@ -65,6 +65,57 @@ In addition, a shape file along with its associated files are being used in orde
 
 All data files can be found in the data folder of this project.
 
+### Findings and Insights
+
+### EDA for Red Light Cameras Dataset
+
+-	This is a GeoJSON dataset.
+
+-	The dataset has 77 rows (1 row for each red light camera installed in Toronto).
+
+-	The dataset has 11 columns as follows:
+
+	_id - unique row identifier for Open Data database, **int64**
+  
+	INTERSECTION_ID – intersection id, ##int64## 
+  
+	LINEAR_NAME_FULL_1 – name of first street of intersection, **object** 
+  
+	LINEAR_NAME_FULL_2 – name of second street of intersection , **object**
+  
+	ID  - **int64**        
+  
+	X - **object** 
+  
+	Y - **object**
+  
+  LONGITUDE – longitude, **float64**  
+  
+	LATITUDE  - latitude, **float64**   
+  
+	OBJECTID – **int64**         
+  
+	geometry – coordinate data point, **object (shapely.geometry.point.Point)**
+  
+-	The columns  that are important for our analysis are:
+
+INTERSECTION_ID
+
+LINEAR_NAME_FULL_1
+
+LINEAR_NAME_FULL_2
+
+LONGITUDE
+
+LATITUDE
+
+geometry
+
+-	There is some missing data but only in the X and Y columns. These columns are not important for our analysis.  
+
+-	The geopoints for each camera is plotted on a street map of Toronto (obtained from the open data portal of The City of Toronto). **Please see the notebook for this visualization**. This gives a visual representation of all the red light cameras around the city. However, the shape file used in this visualization does not show the level of detail that would be preferred in this situation. A little more detail and interactivity at the intersection level is required in this analysis. A search is currently underway to find a better shape file for The City of Toronto.
+
+
 
 
 
