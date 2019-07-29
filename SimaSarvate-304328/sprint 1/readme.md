@@ -14,14 +14,23 @@ The objectives of this module are:
 ### Pre-requisites for Running Notebook and Code
 
 Python v3
+
 The following packages must be installed for this project:
+
 rtree
+
 gdal
+
 fiona
+
 shapely
+
 geopandas
+
 pysal
+
 missingno
+
 **Note:** Installation should be done in the order listed above as the installation of some packages depend on other packages already being installed.
 
 
