@@ -247,7 +247,7 @@ All data files can be found in the data folder of this project.
 
 	YEAR
 	
-	2008    	34
+	2008            34
 	
 	2009   		24
 	
