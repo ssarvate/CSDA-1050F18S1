@@ -273,54 +273,53 @@ All data files can be found in the data folder of this project.
 	
 	Hour
 	
-	0     		
-	12
+	0--------------12
 	
-	1      		8
+	1---------------8
 	
-	2      		4
+	2---------------4
 	
-	3     		10
+	3--------------10
 	
-	4      		1
+	4---------------1
 	
-	5     		10
+	5--------------10
 	
-	6      		9
+	6---------------9
 	
-	7     		13
+	7--------------13
 	
-	8      		8
+	8---------------8
 	
-	9     		13
+	9--------------13
 	
-	10    		13
+	10-------------13
 	
-	11    		16
+	11-------------16
 	
-	12    		13
+	12-------------13
 	
-	13    		 7
+	13--------------7
 	
-	14    		14
+	14-------------14
 	
-	15    		18
+	15-------------18
 	
-	16    		21
+	16-------------21
 	
-	17     		8
+	17--------------8
 	
-	18    		21
+	18-------------21
 	
-	19     		5
+	19--------------5
 	
-	20    		18
+	20-------------18
 	
-	21    		10
+	21-------------10
 	
-	22     		6
+	22--------------6
 	
-	23     		5
+	23--------------5
 	
 	**KSI by Age Group (age of the red light runner)** – Here we got some unexpected results. There were counts in outlying age groups. For example, there was 1 accident classified in each of the age groups 0-4, 10-14, and over 95. These could be due to human (data input) error.
 	
