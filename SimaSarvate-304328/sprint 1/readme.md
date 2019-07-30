@@ -321,7 +321,7 @@ All data files can be found in the data folder of this project.
 	
 	23--------------5
 	
-	**KSI by Age Group (age of the red light runner)** – Here we got some unexpected results. There were counts in outlying age groups. For example, there was 1 accident classified in each of the age groups 0-4, 10-14, and over 95. These could be due to human (data input) error.
+	**KSI by Age Group (age of the red light runner)** – Here we got some unexpected results. There were counts in outlying age groups. For example, there was 1 accident classified in each of the age groups 0-4, 10-14, and over 95. These could be due to human (data input) error. We also see that the highest number of accidents occur in the 20-24 and 45-49 age groups.
 	
 	AGE GROUP
 	
