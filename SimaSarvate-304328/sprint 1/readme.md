@@ -361,7 +361,7 @@ All data files can be found in the data folder of this project.
 	
 ### EDA for Red Light Accident Dataset (KSI) and Red Light Camera Data
 
--	**Please see visualization in the notebook** of the camera geopoints along with the accident geopoints at the same time on the map of Torono.  Again, a better shape file will allow for more insights.
+-	**Please see visualization in the notebook** of the camera geopoints along with the accident geopoints at the same time on the map of Torono.  By just looking at this plot, we can see that most of the accident sites are at intersections that don’t have red light cameras. However, there are some sites that are quite close to intersections that have red light cameras installed. Again, a better shape file will allow for more insights here. We would be better able to visualize how close these accidents are to these red light cameras if we had a more detailed map at the intersection level and if we could drill down to the intersections.
 
 
 
