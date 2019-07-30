@@ -241,7 +241,7 @@ All data files can be found in the data folder of this project.
 
 -	On closer inspection of the data it was found that there are several rows per accident number (ACCNUM). In order to accurately visual counts of accidents for  various attributes duplicates were dropped. There are **263** unique accidents in this dataset.
 
--	Various visualizations were done with this dataset to get a sense of the accidents (please see notebook):
+-	Various visualizations were done with this dataset to get a sense of the accidents **(please see notebook)**:
 
 	**KSI by Year** – The number of red light accidents has generally decreased over the years, the following chart shows the number by year:
 
