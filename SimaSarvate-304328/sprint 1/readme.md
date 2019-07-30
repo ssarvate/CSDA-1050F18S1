@@ -357,11 +357,16 @@ All data files can be found in the data folder of this project.
 	
 	80 to 84---------6
 	
-- 	This pandas dataframe was converted to a geopandas dataframe and an extra column was added, geometry, using the LONGITUDE and LATITUDE columns giving us a geopoint for each accident to map on the same shape file used to plot the cameras geopoints. **Please see the notebook for this visualization**. Again, it is mentioned that another more suitable shape file is needed which would allow for a higher degree of insights.
+- 	This pandas dataframe was converted to a geopandas dataframe and an extra column was added, geometry, using the LONGITUDE and LATITUDE columns giving us a geopoint for each accident to map on the same shape file used to plot the cameras geopoints. **Please see the notebook for this visualization**. Again, it is mentioned that another more suitable shape file is needed which would allow for a higher degree of insight.
 	
 ### EDA for Red Light Accident Dataset (KSI) and Red Light Camera Data
 
 -	**Please see visualization in the notebook** of the camera geopoints along with the accident geopoints at the same time on the map of Torono.  By just looking at this plot, we can see that most of the accident sites are at intersections that don’t have red light cameras. However, there are some sites that are quite close to intersections that have red light cameras installed. Again, a better shape file will allow for more insights here. We would be better able to visualize how close these accidents are to these red light cameras if we had a more detailed map at the intersection level and if we could drill down to the intersections.
+
+### Next Steps
+
+There is more exploratory analysis work to be done with this data. For example, a more detailed shape file will need to be used in our visualizations. In this iterative process, we will revisit sprint 1 even as we work on sprint 2.
+
 
 
 
