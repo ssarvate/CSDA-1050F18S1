@@ -239,7 +239,7 @@ All data files can be found in the data folder of this project.
 	
 -	Data is missing for the Ward_Name, Ward_ID, and Hood_Name  columns for all rows.
 
--	On closer inspection of the data it was found that there are several rows per accident number (ACCNUM). In order to accurately visual counts of accidents for  various attributes duplicates were dropped. There are **263** unique accidents in this dataset.
+-	On closer inspection of the data it was found that there are several rows per accident number (ACCNUM). In order to accurately visualize counts of accidents for  various attributes duplicates were dropped. There are **263** unique accidents in this dataset.
 
 -	Various visualizations were done with this dataset to get a sense of the accidents **(please see notebook)**:
 
@@ -269,7 +269,7 @@ All data files can be found in the data folder of this project.
 	
 	2018------------22
 	
-	**KSI by Hour of Day** – This chart shows a peak  at 4pm and 6pm.
+	**KSI by Hour of Day** – This chart shows a peak  at 4pm and 6pm. There is a higher number of accidents at these times during the day.
 	
 	Hour
 	
