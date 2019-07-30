@@ -325,37 +325,37 @@ All data files can be found in the data folder of this project.
 	
 	AGE GROUP
 	
-	0 to 4      	 1
+	0 to 4-----------1
 	
-	10 to 14     	 1
+	10 to 14---------1
 	
-	15 to 19   	 12
+	15 to 19--------12
 	
-	20 to 24    	 27
+	20 to 24--------27
 	
-	25 to 29    	 17
+	25 to 29--------17
 	
-	30 to 34   	 17
+	30 to 34--------17
 	
-	35 to 39    	 16
+	35 to 39--------16
 	
-	40 to 44   	 19
+	40 to 44--------19
 	
-	45 to 49   	 26
+	45 to 49--------26
 	
-	50 to 54    	 23
+	50 to 54--------23
 	
-	55 to 59   	 10
+	55 to 59--------10
 	
-	60 to 64   	 22
+	60 to 64--------22
 	
-	65 to 69   	 12
+	65 to 69--------12
 	
-	70 to 74    	 6
+	70 to 74---------6
 	
-	75 to 79    	 7
+	75 to 79---------7
 	
-	80 to 84    	 6
+	80 to 84---------6
 	
 ### EDA for Red Light Accident Dataset (KSI) and Red Light Camera Data
 
