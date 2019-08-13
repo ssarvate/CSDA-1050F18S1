@@ -58,4 +58,10 @@ https://portal0.cf.opendata.inter.sandbox-toronto.ca/dataset/red-light-cameras/
 
 http://data.torontopolice.on.ca/datasets/red-light/data
 
+Both data files can be found in the data folder of this project.
 
+### Methodology
+
+### Findings and Insights
+
+### Next Steps
