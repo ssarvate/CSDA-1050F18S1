@@ -82,7 +82,7 @@ By looking at the interactive map of the red light camera markers alongside the 
 
 By reviewing the distance calculations we find more red light cameras where 3 or more accidents are flagged within the catchment area:
 
-**Camera ID 1234 (Dupont St Lansdowne Ave)** - 4 accidentswithin the catchment area.
+**Camera ID 1234 (Dupont St Lansdowne Ave)** - 4 accidents within the catchment area.
 
 **Camera ID 1235 (Dundas St E Jarvis St)** - 4 accidents within the catchment area.
 
