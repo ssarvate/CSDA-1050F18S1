@@ -66,7 +66,7 @@ We will be using the following methodology:
 
 1. Interactive map visualisation of cameras geopoints alongside accidents geopoints using the folium package in Python. This will allow us to examine the red light cameras with respect to how the accidents are situated around them by drilling down to the intersection level.
 
-2. Calculation of nearest accidents to each camera. We will calculate the distance (Euclidean) between each red light camera and each accident. The returned distance is based on the projection of the points (degrees in WGS84, meters in UTM). We will define a catchment area, which would ideally be decided by our client (in this case The City of Toronto). Accidents for each red light camera with distances that fall within this catchment area will be flagged and the details of these cameras and accidents printed for further review.
+2. Calculation of nearest accidents to each camera. We will calculate the distance (Euclidean) between each red light camera and each accident. The returned distance is based on the projection of the points (degrees in WGS84, meters in UTM). We will define a catchment area, which would ideally be decided by our client (in this case The City of Toronto). Accidents for each red light camera with distances that fall within this catchment area will be flagged and the details of these cameras and accidents printed for further review. **The present catchment area is defined as 1km**.
 
 
 
