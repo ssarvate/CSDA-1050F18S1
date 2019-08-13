@@ -34,7 +34,7 @@ To do this, use the following command at the Anaconda prompt (notice that folium
 
     conda install -c conda-forge osmnx
     
-Note: During this process, the following packages will also be installed:
+**Note:** During this process, the following packages will also be installed:
 
     altair
     
