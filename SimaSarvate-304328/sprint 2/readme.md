@@ -102,3 +102,8 @@ By reviewing the distance calculations we find more red light cameras where 3 or
 
 
 ### Next Steps
+
+1.	The insights from the distance calculations are very valuable to highlight the intersections where there are a high number of accidents in close vicinity to red light cameras. A report generated from these details would be valuable for management.
+
+2.	Although OSMnx has been used in the generation of the interactive map with red light camera markers and accident markers, we can explore how OSMnx can help us to gain further insights into the data.
+
