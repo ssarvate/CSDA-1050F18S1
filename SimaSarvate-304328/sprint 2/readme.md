@@ -50,8 +50,6 @@ Note: During this process, the following packages will also be installed:
 
 ### Data Used in this Analysis
 
-The following datasets will be initially explored in the EDA:
-
 **Red Light Camera Data** – List of red light cameras installed in the city of Toronto. This data can be found in The City of Toronto Open Data Catalogue. 
 
 https://portal0.cf.opendata.inter.sandbox-toronto.ca/dataset/red-light-cameras/
