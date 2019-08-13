@@ -72,4 +72,22 @@ We will be using the following methodology:
 
 ### Findings and Insights
 
+By looking at the interactive map of the red light camera markers alongside the accident markers we can clearly see that the downtown core of Toronto is a hotspot for accidents occurring in close vicinity of red lights cameras. In corroboration with the distance calculations we can see 3 important intersections in the downtown core caught in this process are:
+
+**Camera ID 1249 (King & Jarvis)** - 8 accidents within the catchment area.
+**Camera ID 1255 (Lower Jarvis & Esplanade)** - 10 accidents within catchment area.
+**Camera ID 1259 (York & Lake Shore Blvd W)** - 6 accidents within the catchment area.
+
+By reviewing the distance calculations we find more red light camera IDs where 3 or more accidents are flagged within the catchment area:
+**Camera ID 1234 (Dupont St Lansdowne Ave)** - 4 accidentswithin the catchment area.
+**Camera ID 1235 (Dundas St E Jarvis St)** - 4 accidents within the catchment area.
+**Camera ID 1240 (Eglinton Ave W Spadina Rd)** - 3 accidents within the catchment area.
+**Camera ID 1241 (Eglinton Ave E Victoria Park Ave)** - 3 accidents within the catchment area.
+**Camera ID 1242 (1242 Ellesmere Rd Kennedy Rd)** - 5 accidents within the catchment area.
+**Camera ID 1246 (1246 Islington Ave The Westway)** - 3 accidents within the catchment area.
+**Camera ID 1255 (Eglinton Ave W Spadina Rd)** - 3 accidents within the catchment area.
+**Camera ID 1273 (Richmond & Parliament)** - 4 accidents within the catchment area.
+**Camera ID 1291 (Adelaide & Spadina)** - 3 accidents within the catchment area
+
+
 ### Next Steps
