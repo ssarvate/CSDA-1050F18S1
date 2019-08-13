@@ -80,7 +80,7 @@ By looking at the interactive map of the red light camera markers alongside the 
 
 **Camera ID 1259 (York & Lake Shore Blvd W)** - 6 accidents within the catchment area.
 
-By reviewing the distance calculations we find more red light camera IDs where 3 or more accidents are flagged within the catchment area:
+By reviewing the distance calculations we find more red light cameras where 3 or more accidents are flagged within the catchment area:
 
 **Camera ID 1234 (Dupont St Lansdowne Ave)** - 4 accidentswithin the catchment area.
 
