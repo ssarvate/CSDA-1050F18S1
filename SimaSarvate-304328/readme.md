@@ -16,9 +16,13 @@ This project uses the following technologies:
 
 ### Required Libraries
 This project uses the following Python libraries:
+
 Shapely
+
 Geopandas
+
 OSMnx
+
 Folium
 
 **Note:** These packages are not a part of the default packages installed with Python. They require installation before importing and there are prerequisite packages that need to be installed first. **Please see readme.md files for sprints 1 and 2.**
