@@ -27,10 +27,6 @@ shapely
 
 geopandas
 
-pysal
-
-missingno
-
 **Note:** Installation should be done in the order listed above as the installation of some packages depend on other packages already being installed.
 
 ### Data Used in this Analysis
@@ -45,23 +41,7 @@ Red Light Accident Data - This dataset is a subset of the Killed and Seriously I
 
 http://data.torontopolice.on.ca/datasets/red-light/data
 
-Other datasets that may be considered for the EDA after the initial EDA of the above 2 datsets include the following subsets of the KSI (Killed and Seriously Injured) dataset:
-
-Automobile
-
-Speeding
-
-Pedestrians
-
-Cyclist
-
-Aggressive Driving
-
-Passenger
-
-Fatal Collisions
-
-In addition, a shape file along with its associated files are being used in order to plot the camera and accident geopoints on a street map of Toronto. 
+In addition, a shape file along with its associated files are being used in order to plot the camera and accident geopoints on a street map of Toronto. This is the centerline map of Toronto.
 
 All data files can be found in the data folder of this project.
 
@@ -113,7 +93,7 @@ All data files can be found in the data folder of this project.
 
 -	There is some missing data but only in the X and Y columns. These columns are not important for our analysis.  
 
--	The geopoints for each camera is plotted on a street map of Toronto (obtained from the open data portal of The City of Toronto). **Please see the notebook for this visualization**. This gives a visual representation of all the red light cameras around the city. However, the shape file used in this visualization does not show the level of detail that would be preferred in this situation. A little more detail and interactivity at the intersection level is required in this analysis. A search is currently underway to find a better shape file for The City of Toronto.
+-	The geopoints for each camera is plotted on a street map of Toronto (obtained from the open data portal of The City of Toronto). **Please see the notebook for this visualization**. This gives a visual representation of all the red light cameras around the city. 
 
 ### EDA for Red Light Accident Dataset (KSI)
 
