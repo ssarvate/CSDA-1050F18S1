@@ -103,4 +103,4 @@ By reviewing the distance calculations we find more red light camera IDs where 3
 
 **Camera ID 1291 (Adelaide & Spadina)** - 3 accidents within the catchment area
 
-If we add another intersection to the above list, camera id 1242 at Ellesmere Rd & Kennedy Rd with 5 accidents in the catchment area, these 4 intersections would account for almost 30% of the accidents within the defined catchment area.
+If we add another intersection to the above list of hotspot intersections, camera id 1242 at Ellesmere Rd & Kennedy Rd with 5 accidents in the catchment area, these 4 intersections would account for almost 30% of the accidents within the defined catchment area.
