@@ -159,35 +159,35 @@ All data files can be found in the data folder of this project.
 
 	INITDIR - Initial Direction of Travel, **object**
 
-	VEHTYPE - ,        **object**
+	VEHTYPE - Type of Vehicle, **object**
 
-	MANOEUVER - ,      **object**
+	MANOEUVER - Vehicle Manouever, **object**
 
-	DRIVACT - ,        **object**
+	DRIVACT - Apparent Driver Action, **object**
 
-	DRIVCOND - ,       **object**
+	DRIVCOND - Driver Condition, **object**
 
-	PEDTYPE - ,        **object**
+	PEDTYPE - Pedestrian Crash Type - detail, **object**
 
-	PEDACT - ,         **object**
+	PEDACT - Pedestrian Action, **object**
 
-	PEDCOND - ,        **object**
+	PEDCOND - Condition of Pedestrian, **object**
 
-	CYCLISTYPE - ,     **object**
+	CYCLISTYPE - Cyclist Crash Type - detail, **object**
 
-	CYCACT - ,         **object**
+	CYCACT - Cyclist Action, **object**
 
-	CYCCOND - ,        **object**
+	CYCCOND - Cyclist Condition, **object**
 
-	PEDESTRIAN - ,     **object**
+	PEDESTRIAN - Pedestrian Involved In Collision, **object**
 
-	CYCLIST - ,        **object**
+	CYCLIST - Cyclists Involved in Collision, **object**
 
-	AUTOMOBILE - ,     **object**
+	AUTOMOBILE - Driver  Involved in Collision, **object**
 
-	MOTORCYCLE - ,     **object**
+	MOTORCYCLE - Motorcyclist  Involved in Collision, **object**
 
-	TRUCK - ,          **object**
+	TRUCK - Truck Driver  Involved in Collision, **object**
 
 	TRSN_CITY_ - ,     **object**
 
