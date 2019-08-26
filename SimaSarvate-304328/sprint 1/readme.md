@@ -103,24 +103,25 @@ All data files can be found in the data folder of this project.
 
 -	The dataset has 57 columns as follows:
 
-	X - ,             **float64**
+	X - Latitude, **float64**
 
-	Y - ,            **float64**
+	Y - Longitude, **float64**
 
-	Index_ - ,         **int64**
+	Index_ - Unique Identifier, **int64**
 
-	ACCNUM - ,          **int64**
+	ACCNUM - Accident Number, **int64**
 
-	YEAR - ,
-	DATE           **object**
+	YEAR - Year Accident Occurred, **int64**
+	
+	DATE - Date Accident Occurred, **object**
 
-	TIME - ,            **int64**
+	TIME - Time Accident Occurred, **int64**
 
-	Hour - ,            **int64**
+	Hour - Hour Accident Occurred, **int64**
 
-	STREET1 - ,        **object**
+	STREET1 - Street Accident Occurred, **object**
 
-	STREET2 - ,        **object**
+	STREET2 - Street Accident Occurred, **object**
 
 	OFFSET - ,         **object**
 
