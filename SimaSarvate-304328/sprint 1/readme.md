@@ -353,6 +353,22 @@ All data files can be found in the data folder of this project.
 	
         Turning Movement----------56
 	
+	**KSI by Injury** – 80 out of the 263 red light running accidents resulted in either fatalities or serious injury. This is 30% of the total accidents, which is not an insignificant percentage looking at the cost of human life in these situations.
+	
+	INJURY
+	
+        Not Recorded------34
+	
+        Fatal-------------17
+	
+        Major-------------63
+	
+        Minimal-----------22
+	
+        Minor-------------31
+	
+        None--------------96
+	
 - 	This pandas dataframe was converted to a geopandas dataframe and an extra column was added, geometry, using the LONGITUDE and LATITUDE columns giving us a geopoint for each accident to map on the same shape file used to plot the cameras geopoints. **Please see the notebook for this visualization**. 
 	
 ### EDA for Red Light Accident Dataset (KSI) and Red Light Camera Data
