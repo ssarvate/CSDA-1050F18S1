@@ -189,33 +189,33 @@ All data files can be found in the data folder of this project.
 
 	TRUCK - Truck Driver  Involved in Collision, **object**
 
-	TRSN_CITY_ - ,     **object**
+	TRSN_CITY_ - Transit or City Vehicle  Involved in Collision, **object**
 
-	EMERG_VEH - ,      **object**
+	EMERG_VEH - Emergency Vehicle  Involved in Collision, **object**
 
-	PASSENGER - ,     **object**
+	PASSENGER - Passenger Involved in Collision, **object**
 
-	SPEEDING - ,       **object**
+	SPEEDING - Speeding Related Collision, **object**
 
-	AG_DRIV - ,        **object**
+	AG_DRIV - Aggressive and Distracted Driving Collision, **object**
 
-	REDLIGHT - ,       **object**
+	REDLIGHT - Red Light Related Collision, **object**
 
-	ALCOHOL - ,        **object**
+	ALCOHOL - Alcohol Related Collision, **object**
 
-	DISABILITY - ,     **object**
+	DISABILITY - Medical or Physical Disability Related Collision, **object**
 
-	Division - ,       **object**
+	Division - Police Division, **object**
 
-	Ward_Name - ,     **float64**
+	Ward_Name - City Ward, **float64**
 
-	Ward_ID - ,       **float64**
+	Ward_ID - City Ward Identificator, **float64**
 
-	Hood_ID - ,        **int64**
+	Hood_ID - Neighbourhood Identificator, **int64**
 
-	Hood_Name - ,     **float64**
+	Hood_Name - Neighbourhood Name, **float64**
 
-	ObjectId - ,        **int64**
+	ObjectId - Object ID (Unique Identifier), **int64**
 	
 -	Data is missing for the Ward_Name, Ward_ID, and Hood_Name  columns for all rows.
 
