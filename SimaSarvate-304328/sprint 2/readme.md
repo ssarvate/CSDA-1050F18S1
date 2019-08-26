@@ -101,6 +101,6 @@ By reviewing the distance calculations we find more red light camera IDs where 3
 
 **Camera ID 1255 (Eglinton Ave W Spadina Rd)** - 3 accidents within the catchment area.
 
-**Camera ID 1273 (Richmond & Parliament)** - 4 accidents within the catchment area.
-
 **Camera ID 1291 (Adelaide & Spadina)** - 3 accidents within the catchment area
+
+If we add another intersection to the above list, camera id 1242 at Ellesmere Rd & Kennedy Rd with 5 accidents in the catchment area, these 4 intersections would account for almost 30% of the accidents within the defined catchment area.
