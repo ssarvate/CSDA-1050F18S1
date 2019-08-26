@@ -301,7 +301,7 @@ All data files can be found in the data folder of this project.
 	
 	23--------------5
 	
-	**KSI by Age Group (age of involved party)** – Here we are looking at the age of the parties involved in the red light running accidents. The are peaks in the 20-24 and 45-49 age groups. But clearly traffic accidents effect all age groups from infants to seniors, and red light running is no different.
+	**KSI by Age Group (age of involved party)** – Here we are looking at the age of the parties involved in the red light running accidents. There are peaks in the 20-24 and 45-49 age groups. But clearly traffic accidents effect all age groups from infants and todlers to seniors, and red light running is no different.
 	
 	AGE GROUP
 	
