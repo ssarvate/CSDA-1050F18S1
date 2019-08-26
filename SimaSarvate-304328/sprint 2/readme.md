@@ -72,6 +72,8 @@ We will be using the following methodology:
 
 ### Findings and Insights
 
+Of the 263 red light running accidents, 98 of them are within a distance of 1km of the red light camera intersection, that is 37% of all red light running accidents occur within 1km of the intersection with a red light camera. Out of the 77 red light cameras installed currently, 37 of them had 0 accidents reported in the catchment area. The number of cameras reporting 1-10 accidents is 40. 
+
 By looking at the interactive map of the red light camera markers alongside the accident markers we can clearly see that the downtown core of Toronto is a hotspot for accidents occurring in close vicinity of red lights cameras. In corroboration with the distance calculations we can see 3 important intersections in the downtown core caught in this process are:
 
 **Camera ID 1249 (King & Jarvis)** - 8 accidents within the catchment area.
@@ -80,7 +82,10 @@ By looking at the interactive map of the red light camera markers alongside the 
 
 **Camera ID 1259 (York & Lake Shore Blvd W)** - 6 accidents within the catchment area.
 
-By reviewing the distance calculations we find more red light cameras where 3 or more accidents are flagged within the catchment area:
+These 3 intersections account for almost 25% of the accidents within the defined catchment area.
+
+
+By reviewing the distance calculations we find more red light camera IDs where 3 or more accidents are flagged within the catchment area:
 
 **Camera ID 1234 (Dupont St Lansdowne Ave)** - 4 accidents within the catchment area.
 
@@ -99,11 +104,3 @@ By reviewing the distance calculations we find more red light cameras where 3 or
 **Camera ID 1273 (Richmond & Parliament)** - 4 accidents within the catchment area.
 
 **Camera ID 1291 (Adelaide & Spadina)** - 3 accidents within the catchment area
-
-
-### Next Steps
-
-1. The insights from the distance calculations are very valuable to highlight the intersections where there are a high number of accidents in close vicinity to red light cameras. A report generated from these details would be valuable for management.
-
-2. Although OSMnx has been used in the generation of the interactive map with red light camera markers and accident markers, we can explore how OSMnx can help us to gain further insights into the data.
-
