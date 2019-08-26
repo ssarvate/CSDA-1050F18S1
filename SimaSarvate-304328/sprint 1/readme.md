@@ -123,41 +123,41 @@ All data files can be found in the data folder of this project.
 
 	STREET2 - Street Accident Occurred, **object**
 
-	OFFSET - ,         **object**
+	OFFSET - Distance and direction of the accident, **object**
 
-	ROAD_CLASS - ,     **object**
+	ROAD_CLASS - Road Classification, **object**
 
-	District - ,       **object**
+	District - City District, **object**
 
-	LATITUDE - ,
+	LATITUDE - Latitude, **float64**
 	
-	LONGITUDE - ,     **float64**
+	LONGITUDE - Longitude, **float64**
 
-	LOCCOORD - ,       **object**
+	LOCCOORD - Location Coordinate, **object**
 
-	ACCLOC - ,         **object**
+	ACCLOC - Accident Location, **object**
 
-	TRAFFCTL - ,       **object**
+	TRAFFCTL - Traffic Control Type, **object**
 
-	VISIBILITY - ,     **object**
+	VISIBILITY - Environment Condition, **object**
 
-	LIGHT - ,          **object**
+	LIGHT - Light Condition, **object**
 
-	RDSFCOND - ,       **object**
+	RDSFCOND - Road Surface Condition, **object**
 
-	ACCLASS - ,        **object**
+	ACCLASS - Classification of Accident, **object**
 
-	IMPACTYPE - ,      **object**
+	IMPACTYPE - Initial Impact Type, **object**
 
-	INVTYPE - ,        **object**
+	INVTYPE - Involvement Type, **object**
 
-	INVAGE - ,         **object**
+	INVAGE - Age of Involved Party, **object**
 
-	INJURY - ,         **object**
+	INJURY - Severity of Injury, **object**
 
-	FATAL_NO - ,        **int64**
+	FATAL_NO - Sequential Number, **int64**
 
-	INITDIR - ,        **object**
+	INITDIR - Initial Direction of Travel, **object**
 
 	VEHTYPE - ,        **object**
 
