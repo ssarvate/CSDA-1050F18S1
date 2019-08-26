@@ -103,119 +103,118 @@ All data files can be found in the data folder of this project.
 
 -	The dataset has 57 columns as follows:
 
-	X             **float64**
+	X - ,             **float64**
 
-	Y             **float64**
+	Y - ,            **float64**
 
-	Index_         **int64**
+	Index_ - ,         **int64**
 
-	ACCNUM          **int64**
+	ACCNUM - ,          **int64**
 
-	YEAR            **int64**
-
+	YEAR - ,
 	DATE           **object**
 
-	TIME            **int64**
+	TIME - ,            **int64**
 
-	Hour            **int64**
+	Hour - ,            **int64**
 
-	STREET1        **object**
+	STREET1 - ,        **object**
 
-	STREET2        **object**
+	STREET2 - ,        **object**
 
-	OFFSET         **object**
+	OFFSET - ,         **object**
 
-	ROAD_CLASS     **object**
+	ROAD_CLASS - ,     **object**
 
-	District       **object**
+	District - ,       **object**
 
-	LATITUDE      **float64**
+	LATITUDE - ,
+	
+	LONGITUDE - ,     **float64**
 
-	LONGITUDE     **float64**
+	LOCCOORD - ,       **object**
 
-	LOCCOORD       **object**
+	ACCLOC - ,         **object**
 
-	ACCLOC         **object**
+	TRAFFCTL - ,       **object**
 
-	TRAFFCTL       **object**
+	VISIBILITY - ,     **object**
 
-	VISIBILITY     **object**
+	LIGHT - ,          **object**
 
-	LIGHT          **object**
+	RDSFCOND - ,       **object**
 
-	RDSFCOND       **object**
+	ACCLASS - ,        **object**
 
-	ACCLASS        **object**
+	IMPACTYPE - ,      **object**
 
-	IMPACTYPE      **object**
+	INVTYPE - ,        **object**
 
-	INVTYPE        **object**
+	INVAGE - ,         **object**
 
-	INVAGE         **object**
+	INJURY - ,         **object**
 
-	INJURY         **object**
+	FATAL_NO - ,        **int64**
 
-	FATAL_NO        **int64**
+	INITDIR - ,        **object**
 
-	INITDIR        **object**
+	VEHTYPE - ,        **object**
 
-	VEHTYPE        **object**
+	MANOEUVER - ,      **object**
 
-	MANOEUVER      **object**
+	DRIVACT - ,        **object**
 
-	DRIVACT        **object**
+	DRIVCOND - ,       **object**
 
-	DRIVCOND       **object**
+	PEDTYPE - ,        **object**
 
-	PEDTYPE        **object**
+	PEDACT - ,         **object**
 
-	PEDACT         **object**
+	PEDCOND - ,        **object**
 
-	PEDCOND        **object**
+	CYCLISTYPE - ,     **object**
 
-	CYCLISTYPE     **object**
+	CYCACT - ,         **object**
 
-	CYCACT         **object**
+	CYCCOND - ,        **object**
 
-	CYCCOND        **object**
+	PEDESTRIAN - ,     **object**
 
-	PEDESTRIAN     **object**
+	CYCLIST - ,        **object**
 
-	CYCLIST        **object**
+	AUTOMOBILE - ,     **object**
 
-	AUTOMOBILE     **object**
+	MOTORCYCLE - ,     **object**
 
-	MOTORCYCLE     **object**
+	TRUCK - ,          **object**
 
-	TRUCK          **object**
+	TRSN_CITY_ - ,     **object**
 
-	TRSN_CITY_     **object**
+	EMERG_VEH - ,      **object**
 
-	EMERG_VEH      **object**
+	PASSENGER - ,     **object**
 
-	PASSENGER      **object**
+	SPEEDING - ,       **object**
 
-	SPEEDING       **object**
+	AG_DRIV - ,        **object**
 
-	AG_DRIV        **object**
+	REDLIGHT - ,       **object**
 
-	REDLIGHT       **object**
+	ALCOHOL - ,        **object**
 
-	ALCOHOL        **object**
+	DISABILITY - ,     **object**
 
-	DISABILITY     **object**
+	Division - ,       **object**
 
-	Division       **object**
+	Ward_Name - ,     **float64**
 
-	Ward_Name     **float64**
+	Ward_ID - ,       **float64**
 
-	Ward_ID       **float64**
+	Hood_ID - ,        **int64**
 
-	Hood_ID         **int64**
+	Hood_Name - ,     **float64**
 
-	Hood_Name     **float64**
-
-	ObjectId        **int64**
+	ObjectId - ,        **int64**
 	
 -	Data is missing for the Ward_Name, Ward_ID, and Hood_Name  columns for all rows.
 
