@@ -41,7 +41,7 @@ Red Light Accident Data - This dataset is a subset of the Killed and Seriously I
 
 http://data.torontopolice.on.ca/datasets/red-light/data
 
-In addition, a shape file along with its associated files are being used in order to plot the camera and accident geopoints on a street map of Toronto. This is the centerline map of Toronto.
+In addition, a shape file along with its associated files are being used in order to plot the camera and accident geopoints on a street map of Toronto. This is the centreline map of Toronto.
 
 All data files can be found in the data folder of this project.
 
