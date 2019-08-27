@@ -93,7 +93,7 @@ All data files can be found in the data folder of this project.
 
 -	There is some missing data but only in the X and Y columns. These columns are not important for our analysis.  
 
--	The geopoints for each camera is plotted on a street map of Toronto (obtained from the open data portal of The City of Toronto). **Please see the notebook for this visualization**. This gives a visual representation of all the red light cameras around the city. 
+-	The geopoint for each camera is plotted on a street map of Toronto (obtained from the open data portal of The City of Toronto). **Please see the notebook for this visualization**. This gives a visual representation of all the red light cameras around the city. 
 
 ### EDA for Red Light Accident Dataset (KSI)
 
