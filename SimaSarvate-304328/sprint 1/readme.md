@@ -353,7 +353,7 @@ All data files can be found in the data folder of this project.
 	
         Turning Movement----------56
 	
-	**KSI by Injury** – 80 out of the 263 red light running accidents resulted in either fatalities or serious injury. This is 30% of the total accidents, which is not an insignificant percentage looking at the cost of human life in these situations.
+	**KSI by Injury** – 80 out of the 263 red light running accidents resulted in either fatalities or serious injury. This is 30% of the total accidents, which is not an insignificant percentage when looking at the cost of human life in these situations.
 	
 	INJURY
 	
