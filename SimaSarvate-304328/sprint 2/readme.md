@@ -72,6 +72,8 @@ We will be using the following methodology:
 
 ### Findings and Insights
 
+** Note:** Please download and run the sprint 2 notebook in order to see the interactive maps.
+
 Of the 263 red light running accidents, 98 of them are within a distance of 1km of the red light camera intersection, that is 37% of all red light running accidents occur within 1km of the intersection with a red light camera. Out of the 77 red light cameras installed currently, 37 of them had 0 accidents reported in the catchment area. The number of cameras reporting 1-10 accidents is 40. 
 
 By looking at the interactive map of the red light camera markers alongside the accident markers we can clearly see that the downtown core of Toronto is a hotspot for accidents occurring in close vicinity of red lights cameras. In corroboration with the distance calculations we can see 3 important intersections in the downtown core caught in this process are:
