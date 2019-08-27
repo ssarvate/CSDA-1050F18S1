@@ -26,3 +26,8 @@ OSMnx
 Folium
 
 **Note:** These packages are not a part of the default packages installed with Python. They require installation before importing and there are prerequisite packages that need to be installed first. **Please see readme.md files for sprints 1 and 2.**
+
+### Highlights
+- Geospatial analysis using the geopandas and shapely packages of Python.
+
+- Interactive maps using the OSMnx and folium packages of Python
