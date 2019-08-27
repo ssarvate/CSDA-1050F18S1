@@ -32,4 +32,4 @@ Folium
 ### Highlights
 - Geospatial analysis using the geopandas and shapely packages of Python.
 
-- Interactive maps using the OSMnx and folium packages of Python
+- Interactive maps using the OSMnx and folium packages of Python.
